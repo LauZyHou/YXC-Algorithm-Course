@@ -1,0 +1,14 @@
+*
+!*/
+!*.cpp
+!*.py
+!*.c
+!*.h
+!*.md
+!LICENSE
+!*.txt
+!*.java
+!*.sql
+!.gitignore
+!*.sh
+!.vscode/*
